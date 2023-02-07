@@ -15,6 +15,7 @@ The performance evaluations show a prediction accuracy of 78 %. The feature impo
 4. Classifier model save & load (if needed)
 5. Classifier model test
 6. Grouped permutation importance study
+7. Classifier model benchmarking study
 
 `README.md`: You are here!
 
@@ -28,6 +29,10 @@ Please install packages below before running `model_code.ipynb`
 - pickle
 - matplotlib
 - grouped_permutation_importance
+- xgboost
+- random
+- keras
+- tensorflow
 
 # References
 - [ML5G-PS-012](https://challenge.aiforgood.itu.int/match/matchitem/73/)
