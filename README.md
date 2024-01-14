@@ -1,5 +1,5 @@
 # Automated-QoE-Prediction-with-AI-ML
-The algorithm for solving the problem stetement [ML5G-PS-012: Classification of Home Network Users to Improve User Experience](https://challenge.aiforgood.itu.int/match/matchitem/73/) provided by the ITU AI/ML in 5G Challenge 2022 in collaboration with ZTE. The performance evaluations show a prediction accuracy of 78 %. \
+The algorithm for solving the problem stetement [ML5G-PS-012: Classification of Home Network Users to Improve User Experience](https://challenge.aiforgood.itu.int/match/matchitem/73/) provided by the ITU AI/ML in 5G Challenge 2022 in collaboration with ZTE. The performance evaluations show a prediction accuracy of 78 %. 
 
 # Repository Overview
 `model.pkl`: Random Forest classifier trained.
