@@ -1,7 +1,5 @@
-# Histogram-Based Feature Selection Method
-The algorithm for solving the problem stetement [ML5G-PS-012: Classification of Home Network Users to Improve User Experience](https://challenge.aiforgood.itu.int/match/matchitem/73/) provided by the ITU AI/ML in 5G Challenge 2022 in collaboration with ZTE.\
-We pre-process and extract features based on insights from data networking protocols as well as an accurate histogram analysis.\
-The performance evaluations show a prediction accuracy of 78 %. The feature importance studies show that the LAN RTT (Local Area Network Round Trip Time) value during daytime and midweek plays the most crucial role affecting the user QoE.
+# Automated-QoE-Prediction-with-AI-ML
+The algorithm for solving the problem stetement [ML5G-PS-012: Classification of Home Network Users to Improve User Experience](https://challenge.aiforgood.itu.int/match/matchitem/73/) provided by the ITU AI/ML in 5G Challenge 2022 in collaboration with ZTE. The performance evaluations show a prediction accuracy of 78 %. \
 
 # Repository Overview
 `model.pkl`: Random Forest classifier trained.
@@ -19,22 +17,5 @@ The performance evaluations show a prediction accuracy of 78 %. The feature impo
 
 `README.md`: You are here!
 
-# Required python packages
-Please install packages below before running `model_code.ipynb`
-- pandas
-- natsort
-- chinese_holiday
-- sklearn
-- numpy
-- pickle
-- matplotlib
-- grouped_permutation_importance
-- xgboost
-- random
-- keras
-- tensorflow
-
-# References
-- [ML5G-PS-012](https://challenge.aiforgood.itu.int/match/matchitem/73/)
-- [chinese_holiday](https://pypi.org/project/Chinese-holiday/)
-- [Grouped permutation importance](https://github.com/lucasplagwitz/grouped_permutation_importance)
+# Questions?
+Email to: m.boloursazmashhadi@surrey.ac.uk
