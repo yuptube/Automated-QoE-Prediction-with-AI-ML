@@ -4,9 +4,9 @@ The algorithm for solving the problem stetement [ML5G-PS-012: Classification of 
 # Repository Overview
 `model.pkl`: Random Forest classifier trained.
 
-`DataSet`: Directory storing the raw data set, which you can also download from [ML5G-PS-012](https://challenge.aiforgood.itu.int/match/matchitem/73/)
+`DataSet`: Directory storing the raw data set, which you can also download from [ML5G-PS-012](https://challenge.aiforgood.itu.int/match/matchitem/73/).
 
-`model_code.ipynb`: A notebook for running Histogram-Based Feature Selection Method. This code consists of the sections below
+`model_code.ipynb`: A notebook for running Histogram-Based Feature Selection Method. This code consists of the sections below:
 1. Read csv files
 2. Feature extraction
 3. Classifier model training
