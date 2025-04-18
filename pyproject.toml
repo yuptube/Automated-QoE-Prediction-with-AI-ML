@@ -12,6 +12,7 @@ natsort = "^8.4.0"
 holidays = "^0.70"
 scikit-learn = "^1.6.1"
 matplotlib = "^3.10.1"
+ipykernel = "^6.29.5"
 
 
 [build-system]
