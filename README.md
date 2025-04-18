@@ -19,3 +19,6 @@ The algorithm for solving the problem stetement [ML5G-PS-012: Classification of 
 
 # Questions?
 Email to: m.boloursazmashhadi@surrey.ac.uk
+
+# Dependency 
+1. To run the repo , add poetry and general python environment for fixing package
